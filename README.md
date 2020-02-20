@@ -5,8 +5,7 @@
  * Create your database the mysql;
  * Create dabase db_doe;
  * create table tb_donors(
- .id int not null auto_increment,
-.name varchar(100),
-.email varchar(100),
-.blood varchar(3)
-.)
+ 1. id int not null auto_increment,
+2. name varchar(100),
+3. email varchar(100),
+4. blood varchar(3))
