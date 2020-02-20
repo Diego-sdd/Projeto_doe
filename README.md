@@ -1,6 +1,6 @@
-# Project_doe use Node.js and Mysql
+## Project_doe use Node.js and Mysql
 
--- To start the project, run:
+### To start the project, run:
 -- Npm install;
 -- And create your database the mysql;
 -- Create dabase db_doe;
