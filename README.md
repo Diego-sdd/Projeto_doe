@@ -1,4 +1,4 @@
-## Project_doe use Node.js and Mysql
+## Project_doe use Node.js and Mysql :EMOJICODE:
 
 ### To start the project, run:
 -- Npm install;
